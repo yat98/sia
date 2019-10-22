@@ -1,5 +1,4 @@
-<h1>SIA</h1>
-![alt text](https://raw.githubusercontent.com/yat98/sia/master/assets/img/brand/blue.png)
+![Alt Text](https://raw.githubusercontent.com/yat98/sia/master/assets/img/brand/blue.png)
 
 SIA atau Sistem Informasi Akuntansi yaitu aplikasi berbasis web yang mempunyai fitur jurnal umum, buku besar serta neraca saldo
 
