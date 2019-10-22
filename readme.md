@@ -6,7 +6,7 @@ SIA atau Sistem Informasi Akuntansi yaitu aplikasi berbasis web yang mempunyai f
 <ul>
 <li>jalan perintah pada prompt atau terminal composer install</li>
 <li>buat database siak, kemudian import database yang ada pada folder database</li>
-<ul>
+</ul>
 <hr>
 <h3>Login</h3>
 <ul>
